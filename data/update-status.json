@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T17:15:59.596Z",
+  "updatedAt": "2026-10-11T22:13:45.121Z",
   "stores": [
     {
       "store": "Primor",
@@ -9,7 +9,7 @@
     {
       "store": "Druni",
       "productsFound": 0,
-      "error": "diagnóstico: enlacesCategoría=800, JSON-LD Product=0, categorías omitidas por robots=0"
+      "error": "/marcas/shiseido/benefiance-wrinkle-smoothing: HTTP 503 | /marcas/collistar/facial/contorno-ojos: HTTP 503 | diagnóstico: enlacesCategoría=800, JSON-LD Product=0, categorías omitidas por robots=0"
     },
     {
       "store": "Douglas",
