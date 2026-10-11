@@ -1,0 +1,948 @@
+[
+  {
+    "id": "cerave-crema-hidratante",
+    "brand": "CeraVe",
+    "name": "Crema Hidratante",
+    "category": "crema",
+    "benefit": "Hidratación y barrera cutánea",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "ceramidas",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y barrera cutánea. En su ficha figuran estos ingredientes destacados: ceramidas, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "cerave-facial-pm",
+    "brand": "CeraVe",
+    "name": "Loción Facial Hidratante PM",
+    "category": "loción",
+    "benefit": "Hidratación ligera de noche",
+    "skinTypes": [
+      "mixta",
+      "grasa",
+      "normal"
+    ],
+    "ingredients": [
+      "ceramidas",
+      "niacinamida",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación ligera de noche. En su ficha figuran estos ingredientes destacados: ceramidas, niacinamida, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "cerave-skin-renewing",
+    "brand": "CeraVe",
+    "name": "Skin Renewing Night Cream",
+    "category": "crema",
+    "benefit": "Rutina de noche e hidratación",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "ceramidas",
+      "péptidos",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de rutina de noche e hidratación. En su ficha figuran estos ingredientes destacados: ceramidas, péptidos, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "olay-regenerist-whip",
+    "brand": "Olay",
+    "name": "Regenerist Whip",
+    "category": "crema",
+    "benefit": "Hidratación y aspecto más firme",
+    "skinTypes": [
+      "mixta",
+      "normal"
+    ],
+    "ingredients": [
+      "niacinamida",
+      "péptidos"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y aspecto más firme. En su ficha figuran estos ingredientes destacados: niacinamida, péptidos. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "olay-regenerist-micro-sculpting",
+    "brand": "Olay",
+    "name": "Regenerist Micro-Sculpting Cream",
+    "category": "crema",
+    "benefit": "Hidratación y líneas de expresión",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "niacinamida",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y líneas de expresión. En su ficha figuran estos ingredientes destacados: niacinamida, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "olay-retinol-24",
+    "brand": "Olay",
+    "name": "Retinol 24 Night Moisturizer",
+    "category": "crema",
+    "benefit": "Rutina nocturna antiedad",
+    "skinTypes": [
+      "normal",
+      "mixta"
+    ],
+    "ingredients": [
+      "retinoide",
+      "niacinamida"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de rutina nocturna antiedad. En su ficha figuran estos ingredientes destacados: retinoide, niacinamida. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "loreal-revitalift-classic",
+    "brand": "L’Oréal Paris",
+    "name": "Revitalift Laser X3",
+    "category": "crema",
+    "benefit": "Hidratación y líneas de expresión",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "ácido hialurónico",
+      "pro-retinol"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y líneas de expresión. En su ficha figuran estos ingredientes destacados: ácido hialurónico, pro-retinol. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "loreal-age-perfect",
+    "brand": "L’Oréal Paris",
+    "name": "Age Perfect Golden Age",
+    "category": "crema",
+    "benefit": "Cuidado de piel madura",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "péptidos",
+      "calcio"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de cuidado de piel madura. En su ficha figuran estos ingredientes destacados: péptidos, calcio. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "loreal-hyaluron-specialist",
+    "brand": "L’Oréal Paris",
+    "name": "Hyaluron Specialist",
+    "category": "crema",
+    "benefit": "Hidratación diaria",
+    "skinTypes": [
+      "normal",
+      "mixta"
+    ],
+    "ingredients": [
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación diaria. En su ficha figuran estos ingredientes destacados: ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "eucerin-hyaluron-filler-day",
+    "brand": "Eucerin",
+    "name": "Hyaluron-Filler Día SPF 15",
+    "category": "crema",
+    "benefit": "Hidratación y líneas de expresión",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "ácido hialurónico",
+      "SPF"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y líneas de expresión. En su ficha figuran estos ingredientes destacados: ácido hialurónico, SPF. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "eucerin-hyaluron-filler-night",
+    "brand": "Eucerin",
+    "name": "Hyaluron-Filler Noche",
+    "category": "crema",
+    "benefit": "Cuidado nocturno antiedad",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "ácido hialurónico",
+      "saponina"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de cuidado nocturno antiedad. En su ficha figuran estos ingredientes destacados: ácido hialurónico, saponina. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "eucerin-urearepair",
+    "brand": "Eucerin",
+    "name": "UreaRepair Face Cream",
+    "category": "crema",
+    "benefit": "Piel muy seca",
+    "skinTypes": [
+      "seca"
+    ],
+    "ingredients": [
+      "urea",
+      "ceramidas"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de piel muy seca. En su ficha figuran estos ingredientes destacados: urea, ceramidas. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "neutrogena-hydro-boost",
+    "brand": "Neutrogena",
+    "name": "Hydro Boost Water Gel",
+    "category": "gel",
+    "benefit": "Hidratación ligera",
+    "skinTypes": [
+      "mixta",
+      "grasa"
+    ],
+    "ingredients": [
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación ligera. En su ficha figuran estos ingredientes destacados: ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "neutrogena-retinol-boost",
+    "brand": "Neutrogena",
+    "name": "Retinol Boost Crema de Noche",
+    "category": "crema",
+    "benefit": "Rutina nocturna antiedad",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "retinol",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de rutina nocturna antiedad. En su ficha figuran estos ingredientes destacados: retinol, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "nivea-q10-power",
+    "brand": "Nivea",
+    "name": "Q10 Power Antiarrugas Día SPF 15",
+    "category": "crema",
+    "benefit": "Hidratación y líneas de expresión",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "coenzima Q10",
+      "creatina",
+      "SPF"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y líneas de expresión. En su ficha figuran estos ingredientes destacados: coenzima Q10, creatina, SPF. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "nivea-cellular-luminous",
+    "brand": "Nivea",
+    "name": "Cellular Luminous630 Antimanchas",
+    "category": "crema",
+    "benefit": "Tono desigual y manchas",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "Luminous630",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de tono desigual y manchas. En su ficha figuran estos ingredientes destacados: Luminous630, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "vichy-liftactiv-collagen",
+    "brand": "Vichy",
+    "name": "Liftactiv Collagen Specialist",
+    "category": "crema",
+    "benefit": "Firmeza y signos de edad",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "péptidos",
+      "vitamina C"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de firmeza y signos de edad. En su ficha figuran estos ingredientes destacados: péptidos, vitamina C. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "vichy-neovadiol",
+    "brand": "Vichy",
+    "name": "Neovadiol Peri-Menopause",
+    "category": "crema",
+    "benefit": "Cuidado de piel en menopausia",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "niacinamida",
+      "proxylane"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de cuidado de piel en menopausia. En su ficha figuran estos ingredientes destacados: niacinamida, proxylane. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "laroche-toleriane",
+    "brand": "La Roche-Posay",
+    "name": "Toleriane Sensitive",
+    "category": "crema",
+    "benefit": "Hidratación para piel sensible",
+    "skinTypes": [
+      "sensible",
+      "seca"
+    ],
+    "ingredients": [
+      "glicerina",
+      "ceramidas"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación para piel sensible. En su ficha figuran estos ingredientes destacados: glicerina, ceramidas. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "laroche-hyalu-b5",
+    "brand": "La Roche-Posay",
+    "name": "Hyalu B5 Crema",
+    "category": "crema",
+    "benefit": "Hidratación y elasticidad",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "ácido hialurónico",
+      "vitamina B5"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y elasticidad. En su ficha figuran estos ingredientes destacados: ácido hialurónico, vitamina B5. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "laroche-retinol-b3",
+    "brand": "La Roche-Posay",
+    "name": "Retinol B3 Serum",
+    "category": "sérum",
+    "benefit": "Rutina antiedad nocturna",
+    "skinTypes": [
+      "normal",
+      "mixta"
+    ],
+    "ingredients": [
+      "retinol",
+      "vitamina B3"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de rutina antiedad nocturna. En su ficha figuran estos ingredientes destacados: retinol, vitamina B3. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "avene-hydrance-rich",
+    "brand": "Avène",
+    "name": "Hydrance Rich",
+    "category": "crema",
+    "benefit": "Hidratación para piel sensible seca",
+    "skinTypes": [
+      "seca",
+      "sensible"
+    ],
+    "ingredients": [
+      "agua termal",
+      "glicerina"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación para piel sensible seca. En su ficha figuran estos ingredientes destacados: agua termal, glicerina. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "avene-physiolift",
+    "brand": "Avène",
+    "name": "PhysioLift Día",
+    "category": "crema",
+    "benefit": "Líneas de expresión y firmeza",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "ascolift",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de líneas de expresión y firmeza. En su ficha figuran estos ingredientes destacados: ascolift, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "isdin-isdinceutics-k-ox",
+    "brand": "ISDIN",
+    "name": "Isdinceutics K-Ox Eyes",
+    "category": "contorno",
+    "benefit": "Cuidado del contorno de ojos",
+    "skinTypes": [
+      "todos"
+    ],
+    "ingredients": [
+      "vitamina K óxido",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de cuidado del contorno de ojos. En su ficha figuran estos ingredientes destacados: vitamina K óxido, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "isdin-isdinceutics-a-retin",
+    "brand": "ISDIN",
+    "name": "Isdinceutics A.G.E. Reverse",
+    "category": "crema",
+    "benefit": "Rutina antiedad",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "retinoides",
+      "péptidos"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de rutina antiedad. En su ficha figuran estos ingredientes destacados: retinoides, péptidos. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "clinique-moisture-surge",
+    "brand": "Clinique",
+    "name": "Moisture Surge 100H",
+    "category": "gel-crema",
+    "benefit": "Hidratación ligera prolongada",
+    "skinTypes": [
+      "mixta",
+      "grasa",
+      "normal"
+    ],
+    "ingredients": [
+      "aloe",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación ligera prolongada. En su ficha figuran estos ingredientes destacados: aloe, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "estee-advanced-night",
+    "brand": "Estée Lauder",
+    "name": "Revitalizing Supreme+",
+    "category": "crema",
+    "benefit": "Hidratación y firmeza",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "extractos botánicos",
+      "péptidos"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y firmeza. En su ficha figuran estos ingredientes destacados: extractos botánicos, péptidos. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "bioderma-atoderm",
+    "brand": "Bioderma",
+    "name": "Atoderm Crème Ultra",
+    "category": "crema",
+    "benefit": "Piel seca y sensible",
+    "skinTypes": [
+      "seca",
+      "sensible"
+    ],
+    "ingredients": [
+      "niacinamida",
+      "emolientes"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de piel seca y sensible. En su ficha figuran estos ingredientes destacados: niacinamida, emolientes. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "uriage-age-lift",
+    "brand": "Uriage",
+    "name": "Age Lift Filler",
+    "category": "crema",
+    "benefit": "Líneas de expresión",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "retinol",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de líneas de expresión. En su ficha figuran estos ingredientes destacados: retinol, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "sesderma-c-vit",
+    "brand": "Sesderma",
+    "name": "C-Vit Crema Facial",
+    "category": "crema",
+    "benefit": "Luminosidad y tono apagado",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "vitamina C",
+      "antioxidantes"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de luminosidad y tono apagado. En su ficha figuran estos ingredientes destacados: vitamina C, antioxidantes. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "bella-aurora-splendor",
+    "brand": "Bella Aurora",
+    "name": "Splendor 10",
+    "category": "crema",
+    "benefit": "Cuidado antiedad global",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "péptidos",
+      "antioxidantes"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de cuidado antiedad global. En su ficha figuran estos ingredientes destacados: péptidos, antioxidantes. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "theordinary-natural-moisturizing",
+    "brand": "The Ordinary",
+    "name": "Natural Moisturizing Factors + HA",
+    "category": "crema",
+    "benefit": "Hidratación diaria sencilla",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "aminoácidos",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación diaria sencilla. En su ficha figuran estos ingredientes destacados: aminoácidos, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "theordinary-retinal",
+    "brand": "The Ordinary",
+    "name": "Retinal 0.2% Emulsion",
+    "category": "emulsión",
+    "benefit": "Rutina nocturna avanzada",
+    "skinTypes": [
+      "normal",
+      "mixta"
+    ],
+    "ingredients": [
+      "retinal"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de rutina nocturna avanzada. En su ficha figuran estos ingredientes destacados: retinal. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "paulas-choice-resist",
+    "brand": "Paula’s Choice",
+    "name": "RESIST Barrier Repair Advanced Moisturizer",
+    "category": "crema",
+    "benefit": "Barrera cutánea y líneas finas",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "ceramidas",
+      "retinol"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de barrera cutánea y líneas finas. En su ficha figuran estos ingredientes destacados: ceramidas, retinol. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "medik8-total-moisture",
+    "brand": "Medik8",
+    "name": "Total Moisture Daily Facial Cream",
+    "category": "crema",
+    "benefit": "Hidratación y barrera cutánea",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "ceramidas",
+      "péptidos"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y barrera cutánea. En su ficha figuran estos ingredientes destacados: ceramidas, péptidos. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "filorga-time-filler",
+    "brand": "Filorga",
+    "name": "Time-Filler 5XP",
+    "category": "crema",
+    "benefit": "Líneas de expresión",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "péptidos",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de líneas de expresión. En su ficha figuran estos ingredientes destacados: péptidos, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "nuxe-nuxuriance",
+    "brand": "Nuxe",
+    "name": "Nuxuriance Ultra",
+    "category": "crema",
+    "benefit": "Cuidado antiedad",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "extractos botánicos"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de cuidado antiedad. En su ficha figuran estos ingredientes destacados: extractos botánicos. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "weleda-blue-gentian",
+    "brand": "Weleda",
+    "name": "Blue Gentian & Edelweiss Contorno",
+    "category": "contorno",
+    "benefit": "Contorno de ojos y labios",
+    "skinTypes": [
+      "todos"
+    ],
+    "ingredients": [
+      "genciana azul",
+      "edelweiss"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de contorno de ojos y labios. En su ficha figuran estos ingredientes destacados: genciana azul, edelweiss. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "clarins-extra-firming",
+    "brand": "Clarins",
+    "name": "Extra-Firming Día",
+    "category": "crema",
+    "benefit": "Firmeza e hidratación",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "extractos botánicos"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de firmeza e hidratación. En su ficha figuran estos ingredientes destacados: extractos botánicos. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "garnier-vitamin-c",
+    "brand": "Garnier",
+    "name": "Vitamin C Glow Crema",
+    "category": "crema",
+    "benefit": "Luminosidad y manchas",
+    "skinTypes": [
+      "normal",
+      "mixta"
+    ],
+    "ingredients": [
+      "vitamina C",
+      "niacinamida"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de luminosidad y manchas. En su ficha figuran estos ingredientes destacados: vitamina C, niacinamida. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "cosrx-snail",
+    "brand": "COSRX",
+    "name": "Advanced Snail 92 All in One Cream",
+    "category": "crema",
+    "benefit": "Hidratación y confort",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "mucina de caracol"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y confort. En su ficha figuran estos ingredientes destacados: mucina de caracol. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "beauty-joseon-dynasty",
+    "brand": "Beauty of Joseon",
+    "name": "Dynasty Cream",
+    "category": "crema",
+    "benefit": "Hidratación y luminosidad",
+    "skinTypes": [
+      "seca",
+      "normal"
+    ],
+    "ingredients": [
+      "arroz",
+      "ginseng"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y luminosidad. En su ficha figuran estos ingredientes destacados: arroz, ginseng. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "mixsoon-bean",
+    "brand": "Mixsoon",
+    "name": "Bean Cream",
+    "category": "crema",
+    "benefit": "Hidratación y textura",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "fermentos"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y textura. En su ficha figuran estos ingredientes destacados: fermentos. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "uriage-bariederm",
+    "brand": "Uriage",
+    "name": "Bariéderm Cica Daily Gel-Cream",
+    "category": "gel-crema",
+    "benefit": "Barrera cutánea",
+    "skinTypes": [
+      "sensible",
+      "mixta"
+    ],
+    "ingredients": [
+      "centella asiática",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de barrera cutánea. En su ficha figuran estos ingredientes destacados: centella asiática, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "eucerin-anti-pigment",
+    "brand": "Eucerin",
+    "name": "Anti-Pigment Día SPF 30",
+    "category": "crema",
+    "benefit": "Manchas y tono desigual",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "thiamidol",
+      "SPF"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de manchas y tono desigual. En su ficha figuran estos ingredientes destacados: thiamidol, SPF. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "vichy-mineral-89",
+    "brand": "Vichy",
+    "name": "Minéral 89 Crema 72H",
+    "category": "crema",
+    "benefit": "Hidratación y barrera",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "ácido hialurónico",
+      "minerales"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y barrera. En su ficha figuran estos ingredientes destacados: ácido hialurónico, minerales. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "nivea-soft",
+    "brand": "Nivea",
+    "name": "Soft Crema Hidratante",
+    "category": "crema",
+    "benefit": "Hidratación básica económica",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "vitamina E",
+      "jojoba"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación básica económica. En su ficha figuran estos ingredientes destacados: vitamina E, jojoba. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "cerave-am-facial",
+    "brand": "CeraVe",
+    "name": "Loción Facial Hidratante AM SPF 50",
+    "category": "loción",
+    "benefit": "Hidratación y protección solar",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "ceramidas",
+      "niacinamida",
+      "SPF 50"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de hidratación y protección solar. En su ficha figuran estos ingredientes destacados: ceramidas, niacinamida, SPF 50. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "laroche-anthelios-age",
+    "brand": "La Roche-Posay",
+    "name": "Anthelios Age Correct SPF 50",
+    "category": "crema",
+    "benefit": "Protección solar y cuidado antiedad",
+    "skinTypes": [
+      "normal",
+      "seca"
+    ],
+    "ingredients": [
+      "SPF 50",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de protección solar y cuidado antiedad. En su ficha figuran estos ingredientes destacados: SPF 50, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  },
+  {
+    "id": "isdin-fotoultra-age",
+    "brand": "ISDIN",
+    "name": "FotoUltra Age Repair SPF 50",
+    "category": "fluido",
+    "benefit": "Protección solar facial diaria",
+    "skinTypes": [
+      "normal",
+      "mixta"
+    ],
+    "ingredients": [
+      "SPF 50",
+      "ácido hialurónico"
+    ],
+    "ageGuide": "40+",
+    "description": "¿Para qué sirve? Está incluida por su enfoque de protección solar facial diaria. En su ficha figuran estos ingredientes destacados: SPF 50, ácido hialurónico. El efecto depende de la fórmula completa, concentración y uso; consulta el envase para el modo de empleo, precauciones y tipo de piel recomendado.",
+    "image": "",
+    "offers": []
+  }
+]

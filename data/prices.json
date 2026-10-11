@@ -1,0 +1,7 @@
+{
+  "updatedAt": null,
+  "currency": "EUR",
+  "offers": [],
+  "source": "Se rellena automáticamente con datos estructurados públicos accesibles de tiendas permitidas.",
+  "note": "No se inventan precios: si una tienda no publica datos estructurados accesibles, no aparecerán ofertas para ella."
+}
