@@ -11,7 +11,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: cremaclara-product-price-refresh
+  group: buscador-de-cremas-price-refresh
   cancel-in-progress: false
 jobs:
   discover-and-update:
