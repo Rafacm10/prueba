@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-14T17:27:38.706Z",
+  "updatedAt": "2026-10-14T21:56:05.951Z",
   "stores": [
     {
       "store": "Primor",
-      "productsFound": 42,
-      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=43, categorías omitidas por robots=0"
+      "productsFound": 40,
+      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=41, categorías omitidas por robots=0"
     },
     {
       "store": "Druni",
@@ -33,8 +33,8 @@
     },
     {
       "store": "Perfume's Club",
-      "productsFound": 42,
-      "error": "diagnóstico: enlacesCategoría=200, JSON-LD Product=47, categorías omitidas por robots=0"
+      "productsFound": 37,
+      "error": "diagnóstico: enlacesCategoría=200, JSON-LD Product=42, categorías omitidas por robots=0"
     },
     {
       "store": "El Corte Inglés",
@@ -42,8 +42,8 @@
       "error": "No se pudo leer robots.txt (HTTP 403); tienda omitida por seguridad."
     }
   ],
-  "discoveredProducts": 160,
-  "offers": 160,
+  "discoveredProducts": 153,
+  "offers": 153,
   "limitations": [
     "El rastreo combina sitemaps públicos y categorías permitidas; limita el número de páginas por tienda. El estado incluye contadores de diagnóstico por tienda.",
     "Las tiendas pueden bloquear o cambiar sus páginas; 403/429 se respetan y no se evaden.",
