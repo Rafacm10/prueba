@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:12:39.069Z",
+  "updatedAt": "2026-10-14T17:27:38.706Z",
   "stores": [
     {
       "store": "Primor",
@@ -23,7 +23,7 @@
     },
     {
       "store": "Atida",
-      "productsFound": 73,
+      "productsFound": 76,
       "error": "diagnóstico: enlacesCategoría=0, JSON-LD Product=186, categorías omitidas por robots=0"
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "store": "Perfume's Club",
-      "productsFound": 41,
-      "error": "diagnóstico: enlacesCategoría=200, JSON-LD Product=46, categorías omitidas por robots=0"
+      "productsFound": 42,
+      "error": "diagnóstico: enlacesCategoría=200, JSON-LD Product=47, categorías omitidas por robots=0"
     },
     {
       "store": "El Corte Inglés",
@@ -42,8 +42,8 @@
       "error": "No se pudo leer robots.txt (HTTP 403); tienda omitida por seguridad."
     }
   ],
-  "discoveredProducts": 156,
-  "offers": 156,
+  "discoveredProducts": 160,
+  "offers": 160,
   "limitations": [
     "El rastreo combina sitemaps públicos y categorías permitidas; limita el número de páginas por tienda. El estado incluye contadores de diagnóstico por tienda.",
     "Las tiendas pueden bloquear o cambiar sus páginas; 403/429 se respetan y no se evaden.",
