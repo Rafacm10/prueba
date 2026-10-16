@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-16T11:46:59.775Z",
+  "updatedAt": "2026-10-16T16:54:09.917Z",
   "stores": [
     {
       "store": "Primor",
-      "productsFound": 15,
-      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=15, categorías omitidas por robots=0"
+      "productsFound": 18,
+      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=18, categorías omitidas por robots=0"
     },
     {
       "store": "Druni",
@@ -23,7 +23,7 @@
     },
     {
       "store": "Atida",
-      "productsFound": 67,
+      "productsFound": 66,
       "error": "diagnóstico: enlacesCategoría=0, JSON-LD Product=162, categorías omitidas por robots=0"
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "store": "Perfume's Club",
-      "productsFound": 39,
-      "error": "/es/ponds/essential-care-revitalising-moisturiser-cream/p_0018690/: This operation was aborted | /es/eleven-australia/keep-my-curl-defining-cream/p_001933/: This operation was aborted | /es/babaria/vitamin-b3-body-cream-100-vegan/p_003800/: This operation was aborted | diagnóstico: enlacesCategoría=200, JSON-LD Product=44, categorías omitidas por robots=0"
+      "productsFound": 42,
+      "error": "diagnóstico: enlacesCategoría=200, JSON-LD Product=47, categorías omitidas por robots=0"
     },
     {
       "store": "El Corte Inglés",
@@ -42,8 +42,8 @@
       "error": "No se pudo leer robots.txt (HTTP 403); tienda omitida por seguridad."
     }
   ],
-  "discoveredProducts": 121,
-  "offers": 121,
+  "discoveredProducts": 126,
+  "offers": 126,
   "limitations": [
     "El rastreo combina sitemaps públicos y categorías permitidas; limita el número de páginas por tienda. El estado incluye contadores de diagnóstico por tienda.",
     "Las tiendas pueden bloquear o cambiar sus páginas; 403/429 se respetan y no se evaden.",
