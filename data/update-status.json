@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T11:27:33.312Z",
+  "updatedAt": "2026-10-18T16:05:46.194Z",
   "stores": [
     {
       "store": "Primor",
@@ -23,7 +23,7 @@
     },
     {
       "store": "Atida",
-      "productsFound": 76,
+      "productsFound": 71,
       "error": "diagnóstico: enlacesCategoría=0, JSON-LD Product=186, categorías omitidas por robots=0"
     },
     {
@@ -42,8 +42,8 @@
       "error": "No se pudo leer robots.txt (HTTP 403); tienda omitida por seguridad."
     }
   ],
-  "discoveredProducts": 164,
-  "offers": 164,
+  "discoveredProducts": 159,
+  "offers": 159,
   "limitations": [
     "El rastreo combina sitemaps públicos y categorías permitidas; limita el número de páginas por tienda. El estado incluye contadores de diagnóstico por tienda.",
     "Las tiendas pueden bloquear o cambiar sus páginas; 403/429 se respetan y no se evaden.",
