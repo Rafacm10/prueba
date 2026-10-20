@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:56:24.547Z",
+  "updatedAt": "2026-10-20T17:26:34.419Z",
   "currency": "EUR",
   "offers": [
     {
@@ -9,7 +9,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-biotherm-aquasource-hyalu-plump-gel-hidratante-106300.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:35.830Z"
+      "checked_at": "2026-10-20T17:16:41.678Z"
     },
     {
       "product_id": "auto-avene-tolerance-control-crema-calmante-reparadora",
@@ -18,7 +18,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-tolerance-control-crema-calmante-reparadora-106638.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:37.181Z"
+      "checked_at": "2026-10-20T17:16:43.149Z"
     },
     {
       "product_id": "auto-biotherm-force-supreme-gel-antiage",
@@ -27,7 +27,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-force-supreme-gel-antiage-106517.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:38.466Z"
+      "checked_at": "2026-10-20T17:16:44.621Z"
     },
     {
       "product_id": "auto-biotherm-serum-antiedad-blue-therapy-accelerated-biotherm",
@@ -36,7 +36,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-serum-antiedad-blue-therapy-accelerated-biotherm-106217.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:39.749Z"
+      "checked_at": "2026-10-20T17:16:46.091Z"
     },
     {
       "product_id": "auto-bella-aurora-splendor-10-dia",
@@ -45,7 +45,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/bella-aurora-splendor-10-dia-106237.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:41.034Z"
+      "checked_at": "2026-10-20T17:16:47.434Z"
     },
     {
       "product_id": "auto-avene-cicalfate-crema-reparadora-protectora",
@@ -54,7 +54,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-cicalfate-crema-reparadora-111253.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:42.319Z"
+      "checked_at": "2026-10-20T17:16:48.779Z"
     },
     {
       "product_id": "auto-avene-cleanance-gel-limpiador-facial-acne-piel-grasa",
@@ -63,7 +63,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-cleanance-gel-limpiador-facial-108004.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:43.604Z"
+      "checked_at": "2026-10-20T17:16:50.124Z"
     },
     {
       "product_id": "auto-abbott-pediasure-polvo-sabor-chocolate",
@@ -72,7 +72,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/abbott-pediasure-polvo-sabor-chocolate-104802.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:44.888Z"
+      "checked_at": "2026-10-20T17:16:51.468Z"
     },
     {
       "product_id": "auto-biotherm-blue-pro-retinol-crema-multi-correctora",
@@ -81,7 +81,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-blue-pro-retinol-crema-multi-correctora-106332.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:46.172Z"
+      "checked_at": "2026-10-20T17:16:52.811Z"
     },
     {
       "product_id": "auto-bella-aurora-crema-color-anti-manchas-spf-50",
@@ -90,7 +90,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/bella-aurora-crema-color-anti-manchas-spf-50-109537.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:47.455Z"
+      "checked_at": "2026-10-20T17:16:54.155Z"
     },
     {
       "product_id": "auto-avene-tolerance-hydra-10-crema-hidratante",
@@ -99,7 +99,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-tolerance-hydra-10-crema-hidratante-60868.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:48.739Z"
+      "checked_at": "2026-10-20T17:16:55.497Z"
     },
     {
       "product_id": "auto-bella-aurora-crema-antimanchas-doble-fuerza-mate-original-piel-mixta",
@@ -108,7 +108,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/bella-aurora-crema-antimanchas-doble-fuerza-mate-original-piel-mixta-15260.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:50.023Z"
+      "checked_at": "2026-10-20T17:16:56.842Z"
     },
     {
       "product_id": "auto-ana-maria-lajusticia-colageno-con-magnesio-y-vitamina-c-polvo-sabor-fresa",
@@ -117,7 +117,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/ana-maria-lajusticia-colageno-con-magnesio-y-vitamina-c-130264.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:53.386Z"
+      "checked_at": "2026-10-20T17:17:00.742Z"
     },
     {
       "product_id": "auto-avene-hyaluron-activ-b3-crema-regeneracion-celular-recarga",
@@ -126,7 +126,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-hyaluron-activ-b3-crema-regeneracion-celular-recarga-72325.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:54.668Z"
+      "checked_at": "2026-10-20T17:17:02.083Z"
     },
     {
       "product_id": "auto-biotherm-crema-antiarrugas-de-noche-blue-therapy",
@@ -135,7 +135,16 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-crema-antiarrugas-de-noche-blue-therapy-14328.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:55.952Z"
+      "checked_at": "2026-10-20T17:17:03.425Z"
+    },
+    {
+      "product_id": "auto-biotherm-blue-pro-retinol-contorno-de-ojos",
+      "store": "Primor",
+      "price": 28.93,
+      "currency": "EUR",
+      "url": "https://www.primor.eu/es_es/biotherm-blue-pro-retinol-contorno-de-ojos-83831.html",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:17:04.770Z"
     },
     {
       "product_id": "auto-beauty-drops-voluminizador-de-labios-con-acido-hialuronico",
@@ -144,7 +153,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/beauty-drops-voluminizador-de-labios-con-acido-hialuronico-97411.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:58.524Z"
+      "checked_at": "2026-10-20T17:17:06.116Z"
     },
     {
       "product_id": "auto-biotherm-blue-peptides-uplift-crema-de-noche-reafirmante",
@@ -153,7 +162,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-blue-peptides-uplift-crema-de-noche-reafirmante-94789.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:47:59.807Z"
+      "checked_at": "2026-10-20T17:17:07.462Z"
     },
     {
       "product_id": "auto-biotherm-lait-corporel-crema-corporal-antisequedad",
@@ -162,7 +171,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-lait-corporel-l-original-leche-corporal-hidratante-11920.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:01.090Z"
+      "checked_at": "2026-10-20T17:17:08.810Z"
     },
     {
       "product_id": "auto-avene-hyaluron-activ-b3-crema-de-noche",
@@ -171,7 +180,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-hyaluron-activ-b3-crema-de-noche-70326.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:02.373Z"
+      "checked_at": "2026-10-20T17:17:10.159Z"
     },
     {
       "product_id": "auto-arganour-radiance-serum-facial-con-acido-hialuronico-y-centella-asiatica",
@@ -180,7 +189,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/arganour-radiance-serum-facial-con-acido-hialuronico-y-centella-asiatica-60448.html",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:48:03.656Z"
+      "checked_at": "2026-10-20T17:17:11.503Z"
     },
     {
       "product_id": "auto-arganour-elixir-contorno-de-ojos",
@@ -189,7 +198,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/arganour-elixir-contorno-de-ojos-con-higo-chumbo-y-cafeina-77919.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:06.572Z"
+      "checked_at": "2026-10-20T17:17:14.577Z"
     },
     {
       "product_id": "auto-bioderma-sensibio-ar-crema-para-rosacea",
@@ -198,7 +207,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/bioderma-sensibio-ar-crema-14482.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:07.855Z"
+      "checked_at": "2026-10-20T17:17:15.921Z"
     },
     {
       "product_id": "auto-beauty-of-joseon-dynasty-crema",
@@ -207,7 +216,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/beauty-of-joseon-dynasty-crema-72288.html",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:48:09.138Z"
+      "checked_at": "2026-10-20T17:17:17.263Z"
     },
     {
       "product_id": "auto-avene-cleanance-hydra-crema-calmante",
@@ -216,16 +225,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-cleanance-hydra-crema-calmante-94035.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:10.420Z"
-    },
-    {
-      "product_id": "auto-avene-cleanance-comedomed-peeling-crema-intensiva-para-brote-de-granos",
-      "store": "Primor",
-      "price": 20.23,
-      "currency": "EUR",
-      "url": "https://www.primor.eu/es_es/avene-cleanance-comedomed-peeling-crema-anti-imperfecciones-113630.html",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:11.702Z"
+      "checked_at": "2026-10-20T17:17:18.607Z"
     },
     {
       "product_id": "auto-biotherm-life-plankton-regenerating-serum-antiedad",
@@ -234,16 +234,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-life-plankton-regenerating-serum-antiedad-106515.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:12.984Z"
-    },
-    {
-      "product_id": "auto-biotherm-force-supreme-serum-contorno-de-ojos",
-      "store": "Primor",
-      "price": 38.38,
-      "currency": "EUR",
-      "url": "https://www.primor.eu/es_es/biotherm-force-supreme-serum-contorno-de-ojos-14440.html",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:14.268Z"
+      "checked_at": "2026-10-20T17:17:21.294Z"
     },
     {
       "product_id": "auto-biotherm-aquapower-advanced-gel-spf14-hidratante",
@@ -252,7 +243,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-aquapower-advanced-gel-spf14-hidratante-17630.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:15.552Z"
+      "checked_at": "2026-10-20T17:17:23.979Z"
     },
     {
       "product_id": "auto-avene-hydrance-boost-serum-hidratante-concentrado",
@@ -261,7 +252,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-hydrance-boost-serum-hidratante-concentrado-75259.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:16.835Z"
+      "checked_at": "2026-10-20T17:17:25.326Z"
     },
     {
       "product_id": "auto-avene-dermabsolu-crema-intensiva-noche-remodeladora",
@@ -270,7 +261,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-eau-thermale-dermabsolu-crema-de-noche-intensiva-reestructurante-116514.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:19.399Z"
+      "checked_at": "2026-10-20T17:17:28.011Z"
     },
     {
       "product_id": "auto-avene-hyaluron-activ-b3-crema-regeneradora-celular-antiarrugas",
@@ -279,7 +270,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-hyaluron-activ-b3-crema-regenadora-de-dia-70325.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:20.681Z"
+      "checked_at": "2026-10-20T17:17:29.354Z"
     },
     {
       "product_id": "auto-biotherm-blue-peptides-uplift-spf30-crema-de-dia-reafirmante",
@@ -288,7 +279,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/biotherm-blue-peptides-uplift-spf30-crema-de-dia-reafirmante-94790.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:21.967Z"
+      "checked_at": "2026-10-20T17:17:30.698Z"
     },
     {
       "product_id": "auto-avene-hydrance-ligera-emulsion-facial-hidratante",
@@ -297,7 +288,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/avene-hydrance-ligera-emulsion-facial-hidratante-15778.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:23.250Z"
+      "checked_at": "2026-10-20T17:17:32.039Z"
     },
     {
       "product_id": "auto-cantabria-labs-endocare-renewal-retinol-serum",
@@ -306,7 +297,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cantabria-labs-endocare-renewal-retinol-serum-93199.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:26.202Z"
+      "checked_at": "2026-10-20T17:17:35.100Z"
     },
     {
       "product_id": "auto-cantabria-labs-endocare-radiance-c-ferulic-edafense-serum",
@@ -315,7 +306,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cantabria-labs-endocare-radiance-c-ferulic-edafense-serum-93158.html",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:48:27.485Z"
+      "checked_at": "2026-10-20T17:17:36.442Z"
     },
     {
       "product_id": "auto-cantabria-labs-endocare-renewal-retinol-intensive-serum",
@@ -324,7 +315,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cantabria-labs-endocare-renewal-retinol-intensive-serum-93198.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:28.768Z"
+      "checked_at": "2026-10-20T17:17:37.785Z"
     },
     {
       "product_id": "auto-cantabria-labs-neoretin-discrom-k-contorno-de-ojos-despigmentante",
@@ -333,7 +324,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cantabria-labs-neoretin-discrom-k-contorno-de-ojos-despigmentante-93298.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:30.052Z"
+      "checked_at": "2026-10-20T17:17:39.127Z"
     },
     {
       "product_id": "auto-cantu-shea-butter-natural-hair-moisturizing-activador-de-rizos",
@@ -342,7 +333,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cantu-shea-butter-natural-hair-moisturizing-activador-de-rizos-10776.html",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:48:31.334Z"
+      "checked_at": "2026-10-20T17:17:40.470Z"
     },
     {
       "product_id": "auto-cerave-sa-crema-alisadora-anti-rugosidades",
@@ -351,7 +342,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cerave-crema-alisadora-anti-rugosidades-106145.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:32.618Z"
+      "checked_at": "2026-10-20T17:17:41.813Z"
     },
     {
       "product_id": "auto-cerave-gel-crema-facial-oil-control",
@@ -360,7 +351,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cerave-gel-crema-facial-oil-control-108018.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:33.902Z"
+      "checked_at": "2026-10-20T17:17:43.158Z"
     },
     {
       "product_id": "auto-cerave-crema-hidratante-para-piel-seca-a-muy-seca",
@@ -369,7 +360,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cerave-crema-hidratante-106619.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:35.187Z"
+      "checked_at": "2026-10-20T17:17:44.502Z"
     },
     {
       "product_id": "auto-cerave-locion-hidratante-facial-spf-50",
@@ -378,7 +369,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cerave-locion-hidratante-facial-spf-50-18169.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:37.754Z"
+      "checked_at": "2026-10-20T17:17:47.190Z"
     },
     {
       "product_id": "auto-cerave-locion-hidratante-rostro",
@@ -387,7 +378,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cerave-locion-hidratante-rostro-106620.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:39.047Z"
+      "checked_at": "2026-10-20T17:17:48.545Z"
     },
     {
       "product_id": "auto-cerave-limpiador-crema-espuma-hidratante",
@@ -396,7 +387,7 @@
       "currency": "EUR",
       "url": "https://www.primor.eu/es_es/cerave-limpiador-crema-espuma-hidratante-116342.html",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:48:40.334Z"
+      "checked_at": "2026-10-20T17:17:49.888Z"
     },
     {
       "product_id": "auto-vagisil-vagisil-gel-hidratante-intimo-com-camomila-e-aloe-50-gr",
@@ -405,7 +396,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/vagisil-gel-hidratante-ntimo-com-camomila-e-aloe-50-gr",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:23.819Z"
+      "checked_at": "2026-10-20T17:21:54.137Z"
     },
     {
       "product_id": "auto-cumlaude-lab-cumlaude-lab-lubripiu-creme-vulvar-hidratante-30-ml",
@@ -414,7 +405,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/cumlaude-lubripiu-creme-vulvar-hidratante-30ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:23.819Z"
+      "checked_at": "2026-10-20T17:21:54.137Z"
     },
     {
       "product_id": "auto-cumlaude-lab-cumlaude-lab-clx-ovulos-hidratantes-e-calmantes-10-unidades",
@@ -423,7 +414,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/cumlaude-cumlaude-clx-clx-10-ovulos-vaginais",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:23.819Z"
+      "checked_at": "2026-10-20T17:21:54.137Z"
     },
     {
       "product_id": "auto-ainara-ainara-gel-hidratante-vaginal-30-gr",
@@ -432,7 +423,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/italfarmaco-ainara-gel-hidratante-vaginal-30g",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:23.819Z"
+      "checked_at": "2026-10-20T17:21:54.137Z"
     },
     {
       "product_id": "auto-palomacare-palomacare-gel-hidratante-e-reparador-vaginal-6uds-x-5ml",
@@ -441,7 +432,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/palomacare-gel-hidratante-e-reparador-vaginal-6uds-x-5ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:23.819Z"
+      "checked_at": "2026-10-20T17:21:54.137Z"
     },
     {
       "product_id": "auto-palomacare-palomacare-gel-vulvar-hidratante-e-reparador-30-ml",
@@ -450,7 +441,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/palomacare-gel-vulvar-hidratante-e-reparador-30ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:23.819Z"
+      "checked_at": "2026-10-20T17:21:54.137Z"
     },
     {
       "product_id": "auto-beter-beter-escova-de-massagem-facial-de-fibra-natural-2-em-1",
@@ -459,7 +450,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/beter-escova-massagem-facial-2-em-1-natural-fiber",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:29.671Z"
+      "checked_at": "2026-10-20T17:22:00.727Z"
     },
     {
       "product_id": "auto-geske-escova-de-limpeza-facial-geske-sonic-5-em-1-branca",
@@ -468,7 +459,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/escova-de-limpeza-facial-geske-sonic-5-em-1-branca",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:29.671Z"
+      "checked_at": "2026-10-20T17:22:00.727Z"
     },
     {
       "product_id": "auto-geske-escova-facial-geske-sonic-thermo-6-em-1-branca",
@@ -477,7 +468,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/escova-facial-geske-sonic-thermo-6-em-1-branca",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:29.672Z"
+      "checked_at": "2026-10-20T17:22:00.727Z"
     },
     {
       "product_id": "auto-lady-green-escova-de-limpeza-facial-lady-green-ultra-soft-1-unidade",
@@ -486,7 +477,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/escova-de-limpeza-facial-lady-green-ultra-soft-1-unidade",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:29.672Z"
+      "checked_at": "2026-10-20T17:22:00.727Z"
     },
     {
       "product_id": "auto-geske-escova-de-limpeza-facial-4-em-1-geske-preta",
@@ -495,16 +486,16 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/escova-de-limpeza-facial-4-em-1-geske-preta",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:52:29.672Z"
+      "checked_at": "2026-10-20T17:22:00.727Z"
     },
     {
       "product_id": "auto-weleda-weleda-2-em-1-gel-de-limpeza-facial-e-barba-100-ml",
       "store": "Atida",
-      "price": 9.99,
+      "price": 9.49,
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/weleda-2-em-1-gel-de-limpeza-facial-e-barba-100-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-alma-secret-gel-facial-purificante-alma-secret-propolis-amp-laminaria-200-m",
@@ -513,7 +504,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/gel-facial-purificante-alma-secret-propolis-and-laminaria-200-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-nivea-gel-de-limpeza-facial-nivea-men-hydrocare-100-ml",
@@ -522,7 +513,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/gel-de-limpeza-facial-nivea-men-hydrocare-100-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-clinique-clinique-limpador-facial-masculino-200-ml",
@@ -531,7 +522,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/clinique-men-produto-de-limpeza-facial-200-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-manetik-manetik-espuma-de-limpeza-facial-100-ml",
@@ -540,7 +531,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/manetik-espuma-de-limpeza-facial-100-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-bulldog-skincare-bulldog-skincare-facial-care-bag-gel-de-barbear-limpador-c",
@@ -549,7 +540,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/bolsa-de-higiene-pessoal-bulldog-gel-de-barbear-175-ml-limpador-150-hidratante-10-ml",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-shiseido-shiseido-locao-hidratante-masculina-150-ml",
@@ -558,7 +549,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/shiseido-men-hydrating-lotion-150-ml",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-feten-feten-limpador-facial-esfoliante-para-homens-bio-50-ml",
@@ -567,7 +558,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/feten-limpador-facial-esfoliante-bio-50-ml",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:52:33.018Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-bulldog-skincare-bulldog-skincare-limpador-facial-original-150-ml",
@@ -576,7 +567,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/bulldog-skincare-for-men-gel-de-limpeza-original-150-ml",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:52:33.019Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-l-oreal-men-expert-l-39-oreal-men-expert-magnesio-defesa-limpador-facial-10",
@@ -585,16 +576,16 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/loreal-men-expert-limpiador-facial-magnesio-defense-100-ml",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:52:33.019Z"
+      "checked_at": "2026-10-20T17:22:04.913Z"
     },
     {
       "product_id": "auto-weleda-creme-facial-de-calendula-para-bebe-weleda-50ml",
       "store": "Atida",
-      "price": 8.99,
+      "price": 8.54,
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/weleda-creme-facial-bebe-calendula-50ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.803Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-mustela-mustela-hydra-baby-creme-facial-de-abacate-organico-40-ml",
@@ -603,7 +594,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/mustela-hydra-bebe-hydra-bebe-cara-40ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.803Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-eucerin-eucerin-atopicontrol-creme-facial-para-pele-seca-e-irritada-50-ml",
@@ -612,7 +603,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/eucerin-atopicontrol-creme-para-rosto-50ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-suavinex-suavinex-leite-hidratante-corporal-500-ml",
@@ -621,7 +612,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/suavinex-locao-hidratante-500ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-suavinex-suavinex-locao-hidratante-para-massagem-750-ml",
@@ -630,7 +621,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/suavinex-locao-hidratante-massagem-750ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-weleda-locao-hidratante-weleda-baby-derma-200-ml",
@@ -639,16 +630,16 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/weleda-leite-corporal-malva-branca-200ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-sebamed-sebamed-creme-protetor-facial-bebe-50-ml",
       "store": "Atida",
-      "price": 12.99,
+      "price": 12.34,
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/sebamed-baby-creme-protetora-facial-50ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-babe-hidratante-facial-pediatrico-babe-2x50-ml",
@@ -657,7 +648,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/hidratante-facial-pediatrico-babe-2x50-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-mustela-mustela-stelatopia-creme-facial-emoliente-40-ml",
@@ -666,7 +657,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/mustela-stelatopia-creme-emoliante-facial-stelatopia-40ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-mustela-mustela-leite-corporal-hidratante-conforto-com-schisandra-biologica",
@@ -675,7 +666,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/mustela-leite-corporal-hidratante-confort-200ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-isdin-isdin-baby-naturals-nutraisdin-hidratante-facial-50-ml",
@@ -684,7 +675,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/isdin-baby-naturals-nutra-hidratante-facial-50ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:36.804Z"
+      "checked_at": "2026-10-20T17:22:09.059Z"
     },
     {
       "product_id": "auto-erborian-erborian-cc-cream-correcao-vermelha-40-ml",
@@ -693,7 +684,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/erborian-cc-cream-corretor-de-rosacea-45ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:40.498Z"
+      "checked_at": "2026-10-20T17:22:13.028Z"
     },
     {
       "product_id": "auto-atashi-atashi-dd-cream-nude-skin-perfection-fps-15-medio-50-ml-k-bioferment",
@@ -702,7 +693,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/atashi-dd-cream-nude-skin-perfection-fps-15-medio-50-ml-k-bioferment-uplifting-eye-contour-15-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:40.498Z"
+      "checked_at": "2026-10-20T17:22:13.028Z"
     },
     {
       "product_id": "auto-bioderma-bioderma-sensibio-ar-cc-cream-fps-50-cor-clara-40-ml",
@@ -711,7 +702,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/bioderma-sensibio-ar-bb-cream-cor-claro-40ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:40.498Z"
+      "checked_at": "2026-10-20T17:22:13.028Z"
     },
     {
       "product_id": "auto-erborian-erborian-centella-creme-50-ml-cc-cream-corretor-vermelho-40-ml",
@@ -720,7 +711,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/erborian-centella-creme-50-ml-cc-cream-corretor-vermelho-40-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:40.498Z"
+      "checked_at": "2026-10-20T17:22:13.028Z"
     },
     {
       "product_id": "auto-erborian-erborian-cc-cream-fps-30-clair-40-ml-cc-cream-fps-30-dore-40-ml",
@@ -729,7 +720,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/erborian-cc-cream-fps-30-clair-40-ml-cc-cream-fps-30-dore-40-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:40.498Z"
+      "checked_at": "2026-10-20T17:22:13.028Z"
     },
     {
       "product_id": "auto-atashi-atashi-dd-cream-nude-skin-perfection-bege-tone-contorno-dos-olhos-pe",
@@ -738,7 +729,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/atashi-dd-cream-nude-skin-perfection-bege-tone-contorno-dos-olhos-peeling-instantaneo-radiante-da-pele-40ml-esponja-de-maquiagem-de-veludo",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:40.498Z"
+      "checked_at": "2026-10-20T17:22:13.028Z"
     },
     {
       "product_id": "auto-missha-missha-perfect-cover-bb-cream-fps-42-cor-23-50-ml",
@@ -747,7 +738,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/missha-perfect-cover-bb-cream-fps-42-cor-23-50-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:40.498Z"
+      "checked_at": "2026-10-20T17:22:13.028Z"
     },
     {
       "product_id": "auto-beauty-of-joseon-balsamo-de-limpeza-radiance-beauty-of-joseon-100-ml",
@@ -756,7 +747,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/balsamo-de-limpeza-radiance-beauty-of-joseon-100-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:44.066Z"
+      "checked_at": "2026-10-20T17:22:17.035Z"
     },
     {
       "product_id": "auto-cosrx-cosrx-gel-de-limpeza-bom-dia-com-ph-baixo-150-ml",
@@ -765,7 +756,7 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/cosrx-gel-limpador-de-dia-low-ph-good-150ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:44.066Z"
+      "checked_at": "2026-10-20T17:22:17.035Z"
     },
     {
       "product_id": "auto-mixsoon-mixsoon-centella-asiatica-espuma-de-limpeza-facial-150-ml",
@@ -774,16 +765,16 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/mixsoon-centella-asiatica-espuma-de-limpeza-facial-150-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:44.066Z"
+      "checked_at": "2026-10-20T17:22:17.035Z"
     },
     {
       "product_id": "auto-missha-missha-vita-c-plus-espuma-de-limpeza-facial-clear-complexion-120-ml",
       "store": "Atida",
-      "price": 12.99,
+      "price": 12.34,
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/missha-vita-c-plus-espuma-de-limpeza-facial-clear-complexion-120-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:44.066Z"
+      "checked_at": "2026-10-20T17:22:17.035Z"
     },
     {
       "product_id": "auto-frudia-espuma-de-limpeza-de-manga-frudia-my-orchard-120-ml",
@@ -792,250 +783,295 @@
       "currency": "EUR",
       "url": "https://www.atida.com/pt-pt/espuma-de-limpeza-de-manga-frudia-my-orchard-120-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:44.066Z"
+      "checked_at": "2026-10-20T17:22:17.035Z"
     },
     {
-      "product_id": "auto-nivea-nivea-sun-protecao-facial-sensivel-aos-uv-fps50-50-ml",
+      "product_id": "auto-isdin-isdinceutics-hyaluronic-moisture-pele-normal-ou-seca-recarga-50-ml",
       "store": "Atida",
-      "price": 10.99,
+      "price": 34.19,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/nivea-nivea-sun-protecao-facial-uv-sensitive-spf50-sun-50ml",
+      "url": "https://www.atida.com/pt-pt/isdinceutics-healuronic-moisture-piel-normal-o-seca-refill-50-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:50.034Z"
+      "checked_at": "2026-10-20T17:22:25.074Z"
     },
     {
-      "product_id": "auto-atashi-atashi-cellular-pss-radiant-instant-skin-flash-peel-40-ml",
+      "product_id": "auto-topicrem-topicrem-leite-corporal-ultra-hidratante-500-ml",
       "store": "Atida",
-      "price": 18.99,
+      "price": 14.24,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/atashi-cellular-pss-radiant-instant-skin-flash-peel-40ml",
+      "url": "https://www.atida.com/pt-pt/topicrem-leite-corporal-ultra-hidratante-500ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:53.180Z"
+      "checked_at": "2026-10-20T17:22:28.037Z"
     },
     {
-      "product_id": "auto-cerave-cerave-limpador-hidratante-473-ml",
+      "product_id": "auto-apivita-apivita-leite-de-limpeza-facial-e-olhos-3-em-1-com-camomila-e-mel-3",
       "store": "Atida",
-      "price": 13.29,
+      "price": 12.99,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/cerave-limpador-hidratante-473ml",
+      "url": "https://www.atida.com/pt-pt/apivita-cleansing-leite-de-limpeza-3-em-1-facial-e-olhos-com-camomila-e-mel-300ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:52:58.964Z"
+      "checked_at": "2026-10-20T17:22:34.422Z"
     },
     {
-      "product_id": "auto-loreal-paris-l-39-oreal-revitalift-creme-de-dia-hidratante-50-ml",
+      "product_id": "auto-arkopharma-arkopharma-arkoflex-colageno-classico-sabor-limao-360-gr",
       "store": "Atida",
-      "price": 9.99,
+      "price": 24.69,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/l-oreal-revitalift-creme-de-dia-hidratante-50-ml",
-      "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:53:04.376Z"
-    },
-    {
-      "product_id": "auto-5-punto-5-5ponto5-absolut-retinol-3-30-ml",
-      "store": "Atida",
-      "price": 26.59,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/5-punto-5-absolut-retinol-3-30-ml",
+      "url": "https://www.atida.com/pt-pt/arkopharma-arkoflex-colagenio-ac-hialuronico-mg-e-vit-c-360g-sabor-limao",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:09.907Z"
+      "checked_at": "2026-10-20T17:22:40.926Z"
     },
     {
-      "product_id": "auto-loreal-paris-l-39-oreal-paris-creme-de-dia-revitalift-filler-fps50-50-ml",
+      "product_id": "auto-la-roche-posay-la-roche-posay-anthelios-uv-mune-400-dermopediatrics-fluido-",
       "store": "Atida",
-      "price": 18.99,
+      "price": 22.99,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/loreal-paris-revitalift-creme-de-dia-com-fps-50-50-ml",
+      "url": "https://www.atida.com/pt-pt/la-roche-posay-anthelios-dermo-pediatrics-fluido-hidratante-spf50-50-ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:12.661Z"
+      "checked_at": "2026-10-20T17:22:44.092Z"
     },
     {
-      "product_id": "auto-ziaja-ziaja-bb-cream-pele-normal-seca-e-sensivel-fps15-tom-claro-50ml",
+      "product_id": "auto-olay-creme-de-dia-e-serum-reafirmante-olay-regenerist-50ml",
+      "store": "Atida",
+      "price": 24.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/olay-regenerist-ultra-firming-day-serum-50ml",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:22:50.577Z"
+    },
+    {
+      "product_id": "auto-apivita-apivita-cleansing-mini-creme-facial-e-espuma-de-limpeza-de-olhos-co",
       "store": "Atida",
       "price": 4.74,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/ziaja-bb-cream-pele-normal-seca-e-sensivel-spf15-tom-claro-50ml",
+      "url": "https://www.atida.com/pt-pt/apivita-cleansing-mini-creme-facial-e-espuma-de-limpeza-olhos-com-oliveira-e-lavanda-75ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:18.297Z"
+      "checked_at": "2026-10-20T17:22:53.646Z"
     },
     {
-      "product_id": "auto-hd-cosmetic-efficiency-creme-facial-redefinidor-de-eficiencia-cosmetica-hd-",
+      "product_id": "auto-viridian-viridian-5-soro-organico-reparador-50-ml",
       "store": "Atida",
-      "price": 42.74,
+      "price": 23.99,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/hd-cosmetic-efficiency-creme-facial-redefiner-50ml",
+      "url": "https://www.atida.com/pt-pt/viridian-serum-5-repair-bio-50ml",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:23.644Z"
+      "checked_at": "2026-10-20T17:22:56.595Z"
     },
     {
-      "product_id": "auto-loreal-paris-l-39-oreal-paris-revitalift-creme-hidratante-antirrugas-50-ml",
+      "product_id": "auto-viridian-viridian-esportes-multi-60-capsulas",
       "store": "Atida",
-      "price": 9.99,
+      "price": 29.1,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/loreal-paris-revitalift-creme-hidratante-antirrugas-50-ml",
+      "url": "https://www.atida.com/pt-pt/viridian-sports-multi-60-capsulas",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:26.199Z"
+      "checked_at": "2026-10-20T17:23:03.243Z"
     },
     {
-      "product_id": "auto-acorelle-acorelle-creme-solar-facial-fps50-bio-50-ml",
+      "product_id": "auto-viridian-viridian-l-carnitina-500mg-30-capsulas",
       "store": "Atida",
-      "price": 17.99,
+      "price": 27.99,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/acorelle-creme-solar-facial-spf50-bio-50ml",
+      "url": "https://www.atida.com/pt-pt/viridian-l-carnitina-500mg-30-capsulas-vegetais",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:28.905Z"
+      "checked_at": "2026-10-20T17:23:06.626Z"
     },
     {
-      "product_id": "auto-revlon-revlon-proyou-the-moisturizer-mascara-hidratante-500-ml",
-      "store": "Atida",
-      "price": 10.63,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/revlon-proyou-the-moisturizer-mascara-hidratante-500-ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:31.441Z"
-    },
-    {
-      "product_id": "auto-sensilis-sensilis-eternalist-age-retinol-soro-30-ml",
-      "store": "Atida",
-      "price": 48.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/sensilis-eternalist-age-retinol-serum-30ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:34.197Z"
-    },
-    {
-      "product_id": "auto-medik8-medik8-limpeza-radiante-de-superficie-150-ml",
-      "store": "Atida",
-      "price": 32.3,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/medik8-surface-radiance-cleanse-150-ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:37.243Z"
-    },
-    {
-      "product_id": "auto-cerave-cerave-creme-hidratante-340-ml",
-      "store": "Atida",
-      "price": 13.29,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/cerave-creme-hidratante-340ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:39.998Z"
-    },
-    {
-      "product_id": "auto-pediasure-pediasure-sabor-morango-850-gr",
-      "store": "Atida",
-      "price": 30.39,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/pediasure-sabor-morango-850-gramas",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:45.330Z"
-    },
-    {
-      "product_id": "auto-natura-siberica-natura-siberica-peeling-facial-esfoliante-brilho-jovem-150-",
-      "store": "Atida",
-      "price": 6.71,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/natura-siberica-peeling-facial-exfoliante-brilho-juvenil-150ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:53.580Z"
-    },
-    {
-      "product_id": "auto-ziaja-ziaja-jasmine-creme-facial-antirrugas-dia-fps6-50-ml",
-      "store": "Atida",
-      "price": 4.74,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/ziaja-creme-facial-de-dia-anti-rugas-jasmim-spf6-50ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:53:56.308Z"
-    },
-    {
-      "product_id": "auto-sebamed-sebamed-clear-face-gel-hidratante-sem-oleo-50-ml",
-      "store": "Atida",
-      "price": 15.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/sebamed-clear-face-gel-hidratante-oil-free-50ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:54:01.929Z"
-    },
-    {
-      "product_id": "auto-sesderma-sesderma-daeses-creme-lifting-50-ml",
-      "store": "Atida",
-      "price": 38.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/sesderma-daeses-creme-lifting-50ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:54:05.196Z"
-    },
-    {
-      "product_id": "auto-ziaja-med-ziaja-med-creme-facial-protetor-antirrugas-fps-50-50-ml",
-      "store": "Atida",
-      "price": 4.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/ziaja-med-creme-facial-protetora-anti-rugas-spf50-50ml",
-      "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:54:08.184Z"
-    },
-    {
-      "product_id": "auto-eucerin-eucerin-hyaluron-filler-creme-antienvelhecimento-para-pele-seca-50-",
-      "store": "Atida",
-      "price": 38.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/eucerin-hyaluron-filler-dia-pele-seca-50ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:54:10.780Z"
-    },
-    {
-      "product_id": "auto-epaplus-epaplus-arthicare-antiox-bone-powder-sabor-baunilha-30-dias",
-      "store": "Atida",
-      "price": 19.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/epa-plus-epaplus-arthicare-ossos-colagenio-silicio-magnesio-ac-hialuronico-sabor-baunilha",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:54:13.731Z"
-    },
-    {
-      "product_id": "auto-pediasure-pediasure-bebida-sabor-chocolate-4x200-ml",
+      "product_id": "auto-matarrania-matarrania-gel-solido-organico-bom-dia-100-gr",
       "store": "Atida",
       "price": 9.49,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/pediasure-drink-sabor-chocolate-4x200ml",
+      "url": "https://www.atida.com/pt-pt/matarrania-gel-solido-buenos-dias-bio-120gr",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:54:19.012Z"
+      "checked_at": "2026-10-20T17:23:09.971Z"
     },
     {
-      "product_id": "auto-skinceuticals-skinceuticals-protect-locao-hidratante-ultra-facial-uv-defens",
+      "product_id": "auto-tanit-tanit-plus-creme-despigmentante-15-ml-protetor-solar-hidratante-fps50",
       "store": "Atida",
-      "price": 35.99,
+      "price": 31.99,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/skinceuticals-ultra-facial-defense-spf50-30-ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:54:21.909Z"
-    },
-    {
-      "product_id": "auto-kueshi-kueshi-creme-hidratante-vitamina-c-para-pele-mista-oleosa-50-ml",
-      "store": "Atida",
-      "price": 7.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/kueshi-creme-dia-vitamina-c-frutos-vermelhos-50ml",
+      "url": "https://www.atida.com/pt-pt/tanit-plus-creme-despigmentante-15ml-filtro-solar-hidratante-spf50-50ml",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:54:24.800Z"
+      "checked_at": "2026-10-20T17:23:19.702Z"
     },
     {
-      "product_id": "auto-la-roche-posay-la-roche-posay-anthelios-bruma-facial-invisivel-fps50-75-ml",
+      "product_id": "auto-ilitia-ilitia-gel-hidratante-vaginal-6-dose-unica-x-6-ml",
       "store": "Atida",
-      "price": 14.99,
+      "price": 10.99,
       "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/la-roche-posay-anthelios-bruma-invisivel-facial-spf50-75ml",
-      "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:54:30.550Z"
-    },
-    {
-      "product_id": "auto-moroccanoil-moroccanoil-champo-hidratante-250-ml",
-      "store": "Atida",
-      "price": 21.99,
-      "currency": "EUR",
-      "url": "https://www.atida.com/pt-pt/moroccanoil-champo-hidratante-de-oleo-250-ml",
+      "url": "https://www.atida.com/pt-pt/ilitia-gel-hidratante-vaginal-6-monodoses-x-6ml",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:54:36.173Z"
+      "checked_at": "2026-10-20T17:23:22.808Z"
+    },
+    {
+      "product_id": "auto-topicrem-topicrem-leite-ultra-hidratante-500-ml-gift-gel-de-banho-75-ml",
+      "store": "Atida",
+      "price": 12.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/topicrem-leite-ultra-hidratante-500-ml-oferta-gel-de-banho-75-ml",
+      "availability": "https://schema.org/OutOfStock",
+      "checked_at": "2026-10-20T17:23:26.142Z"
+    },
+    {
+      "product_id": "auto-viridian-viridian-beauty-complex-cabelo-pele-e-unhas-30-capsulas",
+      "store": "Atida",
+      "price": 14.24,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/viridian-beauty-complex-cabelo-pele-e-unhas-30-capsulas",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:23:29.575Z"
+    },
+    {
+      "product_id": "auto-biotrade-biotrade-creme-de-dia-pure-skin-glow-revival-fps50-50-ml",
+      "store": "Atida",
+      "price": 26.18,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/biotrade-pure-skin-creme-de-dia-glow-revival-spf50-50-ml",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:23:32.407Z"
+    },
+    {
+      "product_id": "auto-viridian-viridian-bone-complex-90-capsulas",
+      "store": "Atida",
+      "price": 33.24,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/viridian-bone-complex-90-capsulas-vegetais",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:23:35.871Z"
+    },
+    {
+      "product_id": "auto-apivita-apivita-express-beauty-mascara-facial-hidratante-e-suavizante-com-a",
+      "store": "Atida",
+      "price": 4.74,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/apivita-mascara-facial-express-beauty-de-tecido-com-abacate-1ud",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:23:42.131Z"
+    },
+    {
+      "product_id": "auto-apivita-apivita-leite-corporal-hidratante-mountain-tea-75-ml",
+      "store": "Atida",
+      "price": 4.74,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/apivita-leite-hidratante-corporal-mountain-tea-75ml",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:23:45.178Z"
+    },
+    {
+      "product_id": "auto-australian-gold-australian-gold-extensor-de-bronzeado-moisture-lock-237-ml",
+      "store": "Atida",
+      "price": 11.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/australian-gold-prolongador-de-bronzeado-moisture-lock-237ml",
+      "availability": "https://schema.org/OutOfStock",
+      "checked_at": "2026-10-20T17:23:47.936Z"
+    },
+    {
+      "product_id": "auto-viridian-viridian-magnesio-vitamina-b6-e-acafrao-60-capsulas",
+      "store": "Atida",
+      "price": 33.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/viridian-magnesio-vitamina-b6-e-azafran-60-capsulas",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:23:51.469Z"
+    },
+    {
+      "product_id": "auto-viridian-viridian-high-five-ascorbato-de-magnesio-complexo-b-30-capsulas",
+      "store": "Atida",
+      "price": 10.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/viridian-high-five-b-complex-ascorbato-de-magnesio-30-capsulas",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:23:54.908Z"
+    },
+    {
+      "product_id": "auto-apivita-apivita-champo-hidratante-acido-hialuronico-e-aloe-75-ml",
+      "store": "Atida",
+      "price": 4.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/apivita-champo-hidratante-acido-hialuronico-e-aloe-75ml",
+      "availability": "https://schema.org/OutOfStock",
+      "checked_at": "2026-10-20T17:23:58.203Z"
+    },
+    {
+      "product_id": "auto-natura-siberica-natura-siberica-mascara-facial-purificante-branca-80-ml",
+      "store": "Atida",
+      "price": 11.54,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/natura-siberica-mascara-facial-branca-purificante-80ml",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:24:01.372Z"
+    },
+    {
+      "product_id": "auto-biotrade-biotrade-acnaut-espuma-de-limpeza-facial-150-ml",
+      "store": "Atida",
+      "price": 13.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/biotrade-acnaut-espuma-de-limpeza-facial-150-ml",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:24:05.229Z"
+    },
+    {
+      "product_id": "auto-pharmamel-creme-mel13-rx-para-pele-irradiada-150-ml",
+      "store": "Atida",
+      "price": 31.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/pharmamel-mel13-rx-creme-para-pele-irradiada-150ml",
+      "availability": "https://schema.org/OutOfStock",
+      "checked_at": "2026-10-20T17:24:08.536Z"
+    },
+    {
+      "product_id": "auto-natura-siberica-natura-siberica-lab-bioma-creme-facial-hidratante-fps30-50-",
+      "store": "Atida",
+      "price": 11.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/natura-siberica-lab-biome-creme-facial-hidratante-spf30-50-ml",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:24:11.883Z"
+    },
+    {
+      "product_id": "auto-lierac-lierac-homme-gel-hidratante-energizante-50-ml-gel-de-banho-200-ml",
+      "store": "Atida",
+      "price": 24.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/lierac-homme-gel-hidratante-energizante-50-ml-gel-de-banho-integral-50-ml",
+      "availability": "https://schema.org/OutOfStock",
+      "checked_at": "2026-10-20T17:24:15.289Z"
+    },
+    {
+      "product_id": "auto-siken-siken-barra-de-chocolate-substituto-de-colageno-8-unidades",
+      "store": "Atida",
+      "price": 16.31,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/siken-barra-de-caramelo-substituto-de-colageno-8-unid",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:24:18.363Z"
+    },
+    {
+      "product_id": "auto-topicrem-topicrem-mela-creme-de-dia-unificador-anti-manchas-fps50-40-ml",
+      "store": "Atida",
+      "price": 28.79,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/topicrem-mea-corretor-creme-de-dia-spf20-40ml",
+      "availability": "https://schema.org/InStock",
+      "checked_at": "2026-10-20T17:24:22.377Z"
+    },
+    {
+      "product_id": "auto-biotrade-biotrade-melabel-creme-de-dia-anti-manchas-fps50-50-ml",
+      "store": "Atida",
+      "price": 25.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/biotrade-creme-de-dia-spf50-melabel-50ml",
+      "availability": "https://schema.org/OutOfStock",
+      "checked_at": "2026-10-20T17:24:25.653Z"
+    },
+    {
+      "product_id": "auto-strivectin-creme-de-noite-regenerador-avancado-com-retinol-strivectin-50-ml",
+      "store": "Atida",
+      "price": 67.99,
+      "currency": "EUR",
+      "url": "https://www.atida.com/pt-pt/strivectin-advanced-retinol-creme-noite-intensiva-50ml",
+      "availability": "https://schema.org/OutOfStock",
+      "checked_at": "2026-10-20T17:24:28.901Z"
     },
     {
       "product_id": "auto-babaria-aloe-vera-24h-crema-facial-hidratante",
@@ -1044,7 +1080,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/babaria-aloe-vera-crema-hidratante-24-horas/p_00000001029/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:00.276Z"
+      "checked_at": "2026-10-20T17:24:55.130Z"
     },
     {
       "product_id": "auto-babaria-aloe-vera-crema-facial-antiarrugas-con",
@@ -1053,7 +1089,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/babaria-aloe-vera-crema-antiarrugas/p_00000001030/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:02.103Z"
+      "checked_at": "2026-10-20T17:24:57.340Z"
     },
     {
       "product_id": "auto-babaria-solar-adn-crema-facial-aloe-vera-spf50",
@@ -1062,7 +1098,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/babaria-crema-facial-spf50/p_00000001074/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:03.902Z"
+      "checked_at": "2026-10-20T17:24:59.409Z"
     },
     {
       "product_id": "auto-mavala-nailactan-crema-nutritiva-de-u-241-as",
@@ -1071,7 +1107,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/mavala/mavala-nailactan-crema-nutr-unas/p_0000000982/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:05.731Z"
+      "checked_at": "2026-10-20T17:25:01.533Z"
     },
     {
       "product_id": "auto-mavala-crema-para-cut-205-culas",
@@ -1080,7 +1116,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/mavala/mavala-crema-cuticulas/p_0000000983/",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:55:07.505Z"
+      "checked_at": "2026-10-20T17:25:03.722Z"
     },
     {
       "product_id": "auto-juvena-specialists-moisture-plus-gel-mask",
@@ -1089,7 +1125,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/juvena/specialists-moisture-plus-gel-mask/p_000100/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:09.247Z"
+      "checked_at": "2026-10-20T17:25:05.952Z"
     },
     {
       "product_id": "auto-acqua-di-parma-collezione-barbiere-soft-shaving-cream-for-brush",
@@ -1098,7 +1134,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/acqua-di-parma/collezione-barbiere-soft-shaving-cream-for-brush/p_000200511/",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:55:12.949Z"
+      "checked_at": "2026-10-20T17:25:10.693Z"
     },
     {
       "product_id": "auto-juvena-skin-energy-moisture-cream",
@@ -1107,7 +1143,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/juvena/skin-energy-moisture-cream/p_000205/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:14.723Z"
+      "checked_at": "2026-10-20T17:25:12.773Z"
     },
     {
       "product_id": "auto-juvena-skin-energy-moisture-cream-rich",
@@ -1116,7 +1152,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/juvena/skin-energy-moisture-cream-rich/p_000206/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:16.597Z"
+      "checked_at": "2026-10-20T17:25:14.994Z"
     },
     {
       "product_id": "auto-juvena-skin-energy-moisture-eye-cream",
@@ -1125,7 +1161,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/juvena/skin-energy-moisture-eye-cream/p_000208/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:18.418Z"
+      "checked_at": "2026-10-20T17:25:17.184Z"
     },
     {
       "product_id": "auto-sensai-cellular-performance-lift-remodelling-cream",
@@ -1134,7 +1170,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/sensai/sensai-cellular-performance-lift-remodelling-cream/p_00021/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:20.309Z"
+      "checked_at": "2026-10-20T17:25:19.295Z"
     },
     {
       "product_id": "auto-sensai-cellular-performance-extra-intensive-cream",
@@ -1143,7 +1179,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/sensai/sensai-cellular-performance-extra-intensive-cream/p_0002110/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:22.123Z"
+      "checked_at": "2026-10-20T17:25:21.485Z"
     },
     {
       "product_id": "auto-babaria-hyaluronic-acid-s-233-rum-ultrahidratante",
@@ -1152,7 +1188,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/hyaluronic-acid-serum-ultrahidratante/p_0006901/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:25.593Z"
+      "checked_at": "2026-10-20T17:25:25.476Z"
     },
     {
       "product_id": "auto-babaria-retinol-serum-antiarrugas",
@@ -1161,7 +1197,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/retinol-serum-antiarrugas/p_000830/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:29.234Z"
+      "checked_at": "2026-10-20T17:25:29.823Z"
     },
     {
       "product_id": "auto-rexaline-line-killer-crema-rica",
@@ -1170,7 +1206,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/rexaline/premium-line-killer-x-treme-regenerating-cream/p_0008444/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:31.020Z"
+      "checked_at": "2026-10-20T17:25:31.922Z"
     },
     {
       "product_id": "auto-babaria-vitamin-c-crema-facial-antioxidante",
@@ -1179,7 +1215,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/vitamin-c-crema-facial-antioxidante/p_00106/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:32.829Z"
+      "checked_at": "2026-10-20T17:25:34.118Z"
     },
     {
       "product_id": "auto-lea-sensitive-skin-crema-de-afeitar-con-brocha",
@@ -1188,7 +1224,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/lea/normal-shaving-cream/p_0013/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:34.603Z"
+      "checked_at": "2026-10-20T17:25:36.201Z"
     },
     {
       "product_id": "auto-babaria-antimanchas-crema-intensiva-antiedad-noche",
@@ -1197,7 +1233,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/antimanchas-crema-intensiva-antiedad-noche/p_001444/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:36.643Z"
+      "checked_at": "2026-10-20T17:25:38.306Z"
     },
     {
       "product_id": "auto-elemis-pro-collagen-marine-moisture-essence",
@@ -1206,7 +1242,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/elemis/pro-collagen-marine-moisture-essence/p_001583/",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:55:38.462Z"
+      "checked_at": "2026-10-20T17:25:40.298Z"
     },
     {
       "product_id": "auto-bareminerals-complexion-rescue-tinted-moisturizer-mineral-spf-30",
@@ -1215,7 +1251,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/bare-minerals/complexion-rescue-tinted-hydrating-gel-cream/p_0017111/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:40.288Z"
+      "checked_at": "2026-10-20T17:25:42.568Z"
     },
     {
       "product_id": "auto-pond-s-cuidado-esencial-hidratante-h-piel-normal",
@@ -1224,7 +1260,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/ponds/essential-care-revitalising-moisturiser-cream/p_0018690/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:42.095Z"
+      "checked_at": "2026-10-20T17:25:44.768Z"
     },
     {
       "product_id": "auto-eleven-australia-keep-my-curl-defining-cream",
@@ -1233,7 +1269,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/eleven-australia/keep-my-curl-defining-cream/p_001933/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:43.870Z"
+      "checked_at": "2026-10-20T17:25:46.847Z"
     },
     {
       "product_id": "auto-eleven-australia-hydrate-my-hair-moisture-conditioner",
@@ -1242,7 +1278,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/eleven-australia/hydrate-my-hair-moisture-conditioner/p_0020999/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:45.582Z"
+      "checked_at": "2026-10-20T17:25:48.838Z"
     },
     {
       "product_id": "auto-eucerin-ph5-crema-manos-piel-sensible",
@@ -1251,7 +1287,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/eucerin/eucerin-hand-cream/p_00250/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:47.305Z"
+      "checked_at": "2026-10-20T17:25:50.892Z"
     },
     {
       "product_id": "auto-nivea-sun-facial-sensitive-spf50",
@@ -1260,7 +1296,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/nivea/sun-facial-sensitive-spf50/p_00264/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:48.995Z"
+      "checked_at": "2026-10-20T17:25:52.843Z"
     },
     {
       "product_id": "auto-arganour-facial-serum-piel-grasa",
@@ -1269,7 +1305,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/arganour/facial-serum-piel-grasa/p_0028799/",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:55:52.528Z"
+      "checked_at": "2026-10-20T17:25:57.214Z"
     },
     {
       "product_id": "auto-jowa-233-revitalizing-moisturizing-lotion",
@@ -1278,7 +1314,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/jowae/revitalizing-moisturizing-lotion/p_00313/",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:55:56.048Z"
+      "checked_at": "2026-10-20T17:26:01.560Z"
     },
     {
       "product_id": "auto-babaria-vitamin-e-body-cream-100-vegan",
@@ -1287,7 +1323,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/vitamin-e-body-cream-100-vegan/p_00328/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:57.768Z"
+      "checked_at": "2026-10-20T17:26:03.526Z"
     },
     {
       "product_id": "auto-shu-uemura-urban-moisture-hydro-nourishing-shampoo-dry-hair",
@@ -1296,7 +1332,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/shu-uemura/urban-moisture-hydro-nourishing-shampoo-dry-hair/p_003481/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:55:59.598Z"
+      "checked_at": "2026-10-20T17:26:05.738Z"
     },
     {
       "product_id": "auto-shu-uemura-urban-moisture-hydro-nourishing-conditioner-dry-hair",
@@ -1305,7 +1341,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/shu-uemura/urban-moisture-hydro-nourishing-conditioner-dry-hair/p_0034811/",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:56:01.646Z"
+      "checked_at": "2026-10-20T17:26:07.852Z"
     },
     {
       "product_id": "auto-babaria-vitamin-b3-body-cream-100-vegan",
@@ -1314,7 +1350,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/babaria/vitamin-b3-body-cream-100-vegan/p_003800/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:03.348Z"
+      "checked_at": "2026-10-20T17:26:09.845Z"
     },
     {
       "product_id": "auto-jowa-233-tinted-moisturizing-cream",
@@ -1323,7 +1359,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/jowae/tinted-moisturizing-cream/p_0039999/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:05.141Z"
+      "checked_at": "2026-10-20T17:26:11.958Z"
     },
     {
       "product_id": "auto-glam-of-sweden-soft-cream-matte-lipstick",
@@ -1332,7 +1368,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/glam-of-sweden/soft-cream-matte-lipstick-02-nude-pink-4-gr/p_004678/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:06.903Z"
+      "checked_at": "2026-10-20T17:26:14.035Z"
     },
     {
       "product_id": "auto-uriage-bariederm-crema-aislante-y-reparadora-soluci-243-n-antirozaduras-pie",
@@ -1341,7 +1377,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/new-uriage/bariederm-insulating-repairing-cream/p_00508/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:08.724Z"
+      "checked_at": "2026-10-20T17:26:16.199Z"
     },
     {
       "product_id": "auto-elemis-dynamic-resurfacing-facial-wash",
@@ -1350,7 +1386,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/elemis/dynamic-resurfacing-facial-wash/p_007134/",
       "availability": "https://schema.org/OutOfStock",
-      "checked_at": "2026-10-20T11:56:10.462Z"
+      "checked_at": "2026-10-20T17:26:18.116Z"
     },
     {
       "product_id": "auto-ducray-dexyane-med-crema-calmante-eccemas",
@@ -1359,7 +1395,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/ducray/dexyane-med-crema/p_0073348/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:12.144Z"
+      "checked_at": "2026-10-20T17:26:20.241Z"
     },
     {
       "product_id": "auto-taky-aceites-naturales-cera-divina-facial",
@@ -1368,7 +1404,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/taky/aceites-naturales-cera-divina-facial/p_00853/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:13.952Z"
+      "checked_at": "2026-10-20T17:26:22.307Z"
     },
     {
       "product_id": "auto-bella-aurora-splendor-10-reafirmante-cuello-y-escote",
@@ -1377,7 +1413,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/bella-aurora/bella-aurora-splendor-reafirmante-cuello-y-escote/p_008600/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:15.883Z"
+      "checked_at": "2026-10-20T17:26:24.458Z"
     },
     {
       "product_id": "auto-av-232-ne-cleanance-hydra-crema-calmante",
@@ -1386,7 +1422,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/avene/cleanance-hydra-cream/p_008911/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:17.659Z"
+      "checked_at": "2026-10-20T17:26:26.581Z"
     },
     {
       "product_id": "auto-laboratoires-filorga-lift-mask-utra-lifting-mask",
@@ -1395,7 +1431,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/laboratoires-filorga/lift-mask-utra-lifting-mask/p_009582/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:19.444Z"
+      "checked_at": "2026-10-20T17:26:28.723Z"
     },
     {
       "product_id": "auto-laboratoires-filorga-lift-structure-radiance-ultra-lifting-rosy-glow-fluid",
@@ -1404,7 +1440,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/laboratoires-filorga/lift-structure-radiance/p_009612/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:21.246Z"
+      "checked_at": "2026-10-20T17:26:30.858Z"
     },
     {
       "product_id": "auto-cantu-for-natural-hair-coconut-curling-cream",
@@ -1413,7 +1449,7 @@
       "currency": "EUR",
       "url": "https://www.perfumesclub.com/es/cantu/for-natural-hair-coconut-curling-cream/p_010033/",
       "availability": "https://schema.org/InStock",
-      "checked_at": "2026-10-20T11:56:23.051Z"
+      "checked_at": "2026-10-20T17:26:32.831Z"
     }
   ],
   "source": "Datos estructurados públicos de páginas de tiendas; sujeto a disponibilidad y condiciones de acceso.",
