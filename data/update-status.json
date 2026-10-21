@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T17:27:47.856Z",
+  "updatedAt": "2026-10-21T21:57:09.649Z",
   "stores": [
     {
       "store": "Primor",
-      "productsFound": 39,
-      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=40, categorías omitidas por robots=0"
+      "productsFound": 38,
+      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=39, categorías omitidas por robots=0"
     },
     {
       "store": "Druni",
@@ -42,8 +42,8 @@
       "error": "No se pudo leer robots.txt (HTTP 403); tienda omitida por seguridad."
     }
   ],
-  "discoveredProducts": 151,
-  "offers": 151,
+  "discoveredProducts": 150,
+  "offers": 150,
   "limitations": [
     "El rastreo combina sitemaps públicos y categorías permitidas; limita el número de páginas por tienda. El estado incluye contadores de diagnóstico por tienda.",
     "Las tiendas pueden bloquear o cambiar sus páginas; 403/429 se respetan y no se evaden.",
