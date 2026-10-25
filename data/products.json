@@ -3791,5 +3791,31 @@
     "description": "DD Creme Stay Matte Fresh&Pure SPF15 Atashi Tom Intenso 40ml Creme com cor aperfeiçoador e matificante, ideal para uso diário, que uniformiza o tom da pele. Protege a pele dos raios UV e IRA graças ao seu FPS15, embeleza a pele proporcionando cobertura e deixando um acabamento leve no rosto. As células-tronco das plantas com flores lilases ajudam a eliminar o brilho e minimizar a aparência dos poros. Contém extrato de centella asiática, rico em polifenóis, que atua promovendo a correta renovação celular e protegendo a pele contra agressões externas. Reduz a aparência dos poros, controla a produção de sebo e reduz manchas. Com pó fino de arroz que evita o aparecimento de brilho ao longo do dia.",
     "image": "https://assets.atida.com/transform/309e3e33-e7c0-435d-bbe1-fa5f42933560/Atashi-DD-Cream-Stay-Matte-Fresh-Pure-SPF15-Tono-Intenso-40-ml",
     "sourceUrl": "https://www.atida.com/pt-pt/atashi-dd-cream-stay-matte-fresh-pure-spf15-tom-intenso-40ml"
+  },
+  {
+    "id": "auto-cerave-locao-de-limpeza-hidratante-cerave-1-litro",
+    "brand": "Cerave",
+    "name": "Loção de limpeza hidratante CeraVe 1 litro",
+    "category": "crema facial",
+    "benefit": "Consulta la ficha del fabricante para conocer sus beneficios.",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "Loção de limpeza hidratante CeraVe 1 litro: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
+    "image": "https://assets.atida.com/transform/3bfd8916-d1cb-448b-95ed-875e31e4a67d/CeraVe-Locion-Limpiadora-Hidratante-1-Litro",
+    "sourceUrl": "https://www.atida.com/pt-pt/beleza/rosto/limpeza-facial"
+  },
+  {
+    "id": "auto-loreal-paris-l-oreal-paris-revitalift-creme-de-dia-hidratante-50-ml",
+    "brand": "LOréal Paris",
+    "name": "L'Oréal Paris Revitalift Creme de Dia Hidratante 50 ml",
+    "category": "crema facial",
+    "benefit": "L'Oréal Revitalift Creme de Dia Hidratante 50 ml O Creme de Dia Hidratante Revitalift ajuda a reduzir as temidas rugas. Ideal porque tonifica, hidrata",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "L'Oréal Revitalift Creme de Dia Hidratante 50 ml O Creme de Dia Hidratante Revitalift ajuda a reduzir as temidas rugas. Ideal porque tonifica, hidrata e a pele fica mais rejuvenescida. Fórmula rica em pró-retinol avançado e fibrolastil. O rosto parece muito mais firme. A pele fica completamente hidratada. Resultados visíveis em apenas 7 dias!",
+    "image": "https://assets.atida.com/transform/8e65045a-29d8-44bb-8b25-269f34b1a78b/LOreal-Revitalift-Crema-Hidratante-Dia-50-ml",
+    "sourceUrl": "https://www.atida.com/pt-pt/l-oreal-revitalift-creme-de-dia-hidratante-50-ml"
   }
 ]
