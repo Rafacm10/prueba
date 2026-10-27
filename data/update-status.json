@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T22:56:37.762Z",
+  "updatedAt": "2026-10-27T05:25:12.569Z",
   "stores": [
     {
       "store": "Primor",
@@ -9,7 +9,7 @@
     {
       "store": "Druni",
       "productsFound": 0,
-      "error": "diagnóstico: enlacesCategoría=800, JSON-LD Product=0, categorías omitidas por robots=0"
+      "error": "/blog/sitemap_index.xml: This operation was aborted | diagnóstico: enlacesCategoría=800, JSON-LD Product=0, categorías omitidas por robots=0"
     },
     {
       "store": "Douglas",
@@ -23,8 +23,8 @@
     },
     {
       "store": "Atida",
-      "productsFound": 62,
-      "error": "/pt-pt/5-punto-5-absolut-retinol-3-30-ml: This operation was aborted | /pt-pt/beter-look-expert-cc-cream-naturel-perfection-tone-spf30-50ml: This operation was aborted | /pt-pt/medik8-surface-radiance-cleanse-150-ml: This operation was aborted | diagnóstico: enlacesCategoría=0, JSON-LD Product=179, categorías omitidas por robots=0"
+      "productsFound": 66,
+      "error": "diagnóstico: enlacesCategoría=0, JSON-LD Product=185, categorías omitidas por robots=0"
     },
     {
       "store": "Notino",
@@ -42,8 +42,8 @@
       "error": "No se pudo leer robots.txt (HTTP 403); tienda omitida por seguridad."
     }
   ],
-  "discoveredProducts": 150,
-  "offers": 150,
+  "discoveredProducts": 154,
+  "offers": 154,
   "limitations": [
     "El rastreo combina sitemaps públicos y categorías permitidas; limita el número de páginas por tienda. El estado incluye contadores de diagnóstico por tienda.",
     "Las tiendas pueden bloquear o cambiar sus páginas; 403/429 se respetan y no se evaden.",
