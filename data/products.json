@@ -3869,5 +3869,31 @@
     "description": "Creme Facial Mustela Cold Cream e Cera de Abelha 40 ml: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
     "image": "https://assets.atida.com/transform/39437dac-840f-4a19-b56c-0a361acd0e27/Mustela-Cold-Cream-y-Cera-de-Abeja-Crema-Facial-40-ml",
     "sourceUrl": "https://www.atida.com/pt-pt/bebe-criancas/higiene-bebe/hidratacao/cremes-hidratantes"
+  },
+  {
+    "id": "auto-nacomi-gel-de-limpeza-facial-com-niacinamida-nacomi-next-level-150-ml",
+    "brand": "Nacomi",
+    "name": "Gel de limpeza facial com niacinamida Nacomi Next Level 150 ml",
+    "category": "crema facial",
+    "benefit": "Consulta la ficha del fabricante para conocer sus beneficios.",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "Gel de limpeza facial com niacinamida Nacomi Next Level 150 ml: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
+    "image": "https://assets.atida.com/transform/fe32bf20-130f-43b6-a099-97dfbe7aa462/Nacomi-Next-Level-Niacinamide-Face-Cleansing-Gel-150-ml",
+    "sourceUrl": "https://www.atida.com/pt-pt/beleza/rosto/limpeza-facial"
+  },
+  {
+    "id": "auto-suavinex-suavinex-o-meu-primeiro-creme-facial-50-ml",
+    "brand": "Suavinex",
+    "name": "Suavinex O Meu Primeiro Creme Facial 50 ml",
+    "category": "crema facial",
+    "benefit": "Consulta la ficha del fabricante para conocer sus beneficios.",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "Suavinex O Meu Primeiro Creme Facial 50 ml: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
+    "image": "https://assets.atida.com/transform/c479ed08-a970-45f9-bbb4-6769714d9ede/Suavinex-Mi-Primera-Crema-Facial-50-ml",
+    "sourceUrl": "https://www.atida.com/pt-pt/bebe-criancas/higiene-bebe/hidratacao/cremes-hidratantes"
   }
 ]
