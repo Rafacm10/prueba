@@ -3908,5 +3908,31 @@
     "description": "Erborian CC Golden Cream 40 ml + Óleo Terapêutico para a Pele 10 ml + Creme para o Contorno dos Olhos 3 ml: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
     "image": "https://assets.atida.com/transform/b17d5f6c-1e3b-46e7-815c-f4e4c4cf7350/Erborian-CC-Creme-Dore-40-ml-Skin-Therapy-Oil-10-ml-Contorno-Ojos-3-ml",
     "sourceUrl": "https://www.atida.com/pt-pt/beleza/maquilhagem/bb-cc-cream"
+  },
+  {
+    "id": "auto-jowae-revitalizing-moisturizing-lotion",
+    "brand": "Jowaé",
+    "name": "REVITALIZING moisturizing lotion",
+    "category": "crema facial",
+    "benefit": "REVITALIZING moisturizing lotion de Jowaé . Leche hidratante revitalizante. Hidrata y tonifica la piel desde la primera aplicación. De rápida absorció",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "REVITALIZING moisturizing lotion de Jowaé . Leche hidratante revitalizante. Hidrata y tonifica la piel desde la primera aplicación. De rápida absorción. El resultado es una piel suave, tonificada y luminosa. Activos: - Lumifenoles antioxidantes - Agua de bambú - Girasol - Manteca de karité - Soja",
+    "image": "https://i1.perfumesclub.com/grande/122299.jpg",
+    "sourceUrl": "https://www.perfumesclub.com/es/jowae/revitalizing-moisturizing-lotion/p_00313/"
+  },
+  {
+    "id": "auto-jowae-tinted-moisturizing-cream",
+    "brand": "Jowaé",
+    "name": "TINTED moisturizing cream",
+    "category": "crema facial",
+    "benefit": "Crema hidratante con color que rehidrata, unifica y sublima. El acabado es natural. Además, la luminosidad de la tez se reaviva instantáneamente, para",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "Crema hidratante con color que rehidrata, unifica y sublima. El acabado es natural. Además, la luminosidad de la tez se reaviva instantáneamente, para un efecto de brillo saludable inmediato.",
+    "image": "https://i1.perfumesclub.com/grande/122303.jpg",
+    "sourceUrl": "https://www.perfumesclub.com/es/jowae/tinted-moisturizing-cream/p_0039999/"
   }
 ]
