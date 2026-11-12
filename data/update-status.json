@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-11T19:52:46.865Z",
+  "updatedAt": "2026-11-12T07:31:07.491Z",
   "stores": [
     {
       "store": "Primor",
-      "productsFound": 41,
-      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=42, categorías omitidas por robots=0"
+      "productsFound": 46,
+      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=47, categorías omitidas por robots=0"
     },
     {
       "store": "Druni",
@@ -23,8 +23,8 @@
     },
     {
       "store": "Atida",
-      "productsFound": 75,
-      "error": "/pt-pt/siken-barra-de-caramelo-substituto-de-colageno-8-unid: This operation was aborted | /pt-pt/rougj-crema-anticontaminacion-multivit-age-50ml: This operation was aborted | diagnóstico: enlacesCategoría=0, JSON-LD Product=183, categorías omitidas por robots=0"
+      "productsFound": 69,
+      "error": "diagnóstico: enlacesCategoría=0, JSON-LD Product=185, categorías omitidas por robots=0"
     },
     {
       "store": "Notino",
@@ -42,8 +42,8 @@
       "error": "No se pudo leer robots.txt (HTTP 403); tienda omitida por seguridad."
     }
   ],
-  "discoveredProducts": 158,
-  "offers": 158,
+  "discoveredProducts": 157,
+  "offers": 157,
   "limitations": [
     "El rastreo combina sitemaps públicos y categorías permitidas; limita el número de páginas por tienda. El estado incluye contadores de diagnóstico por tienda.",
     "Las tiendas pueden bloquear o cambiar sus páginas; 403/429 se respetan y no se evaden.",
