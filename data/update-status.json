@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-11-25T21:56:59.210Z",
+  "updatedAt": "2026-11-26T08:42:25.427Z",
   "stores": [
     {
       "store": "Primor",
-      "productsFound": 43,
-      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=44, categorías omitidas por robots=0"
+      "productsFound": 44,
+      "error": "/es_es/biotherm-aquasource-hyalu-plump-routine-set-de-rutina-facial-121121.html: HTTP 404 | /es_es/biotherm-biotherm-homme-crema-antiarrugas-hombre-14562.html: HTTP 404 | /es_es/cantabria-labs-endocare-cellage-contorno-de-ojos-93191.html: HTTP 404 | diagnóstico: enlacesCategoría=0, JSON-LD Product=45, categorías omitidas por robots=0"
     },
     {
       "store": "Druni",
@@ -23,7 +23,7 @@
     },
     {
       "store": "Atida",
-      "productsFound": 69,
+      "productsFound": 68,
       "error": "diagnóstico: enlacesCategoría=0, JSON-LD Product=209, categorías omitidas por robots=0"
     },
     {
