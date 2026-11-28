@@ -4077,5 +4077,31 @@
     "description": "Apivita Espuma de Limpeza Facial e Olhos 3 em 1 com Azeitona e Lavanda 300 ml: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
     "image": "https://assets.atida.com/transform/60168db4-3e00-41fb-a322-5f2f81b15cf1/Apivita-Espuma-Limpiadora-3-en-1-Facial-y-Ojos-con-Oliva-y-Lavanda-300-ml",
     "sourceUrl": "https://www.atida.com/pt-pt/beleza/rosto/limpeza-facial"
+  },
+  {
+    "id": "auto-rilastil-tonico-facial-rilastil-skin-reset-200-ml",
+    "brand": "Rilastil",
+    "name": "Tónico Facial Rilastil Skin Reset 200 ml",
+    "category": "crema facial",
+    "benefit": "Consulta la ficha del fabricante para conocer sus beneficios.",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "Tónico Facial Rilastil Skin Reset 200 ml: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
+    "image": "https://assets.atida.com/transform/abf42077-c0b6-4769-8719-8393e5527019/Rilastil-Skin-Reset-Tonico-200-ml",
+    "sourceUrl": "https://www.atida.com/pt-pt/beleza/rosto/limpeza-facial"
+  },
+  {
+    "id": "auto-rilastil-rilastil-aqua-gel-de-limpeza-hidratante-200-ml",
+    "brand": "Rilastil",
+    "name": "Rilastil Aqua Gel de Limpeza Hidratante 200 ml",
+    "category": "crema facial",
+    "benefit": "Consulta la ficha del fabricante para conocer sus beneficios.",
+    "skinTypes": [],
+    "ingredients": [],
+    "ageGuide": "Consulta las indicaciones del fabricante",
+    "description": "Rilastil Aqua Gel de Limpeza Hidratante 200 ml: consulta la descripción y las indicaciones del fabricante para conocer su función, modo de uso y tipo de piel recomendado. La información específica no estaba publicada en los datos estructurados de la tienda.",
+    "image": "https://assets.atida.com/transform/a9b3b55d-4d7f-4b37-b714-2bd935a74c18/Rilastil-Aqua-Gel-Limpiador-Hidratante-200-ml",
+    "sourceUrl": "https://www.atida.com/pt-pt/beleza/rosto/limpeza-facial"
   }
 ]
